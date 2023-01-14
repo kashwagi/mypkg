@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023  Yuki Kashiwagi
+
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import Int16
