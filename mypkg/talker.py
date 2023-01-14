@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2023  Yuki Kashiwagi
+# SPDX-License-Identifier: BSD-3-Clause
 
 import rclpy                     #ROS2のクライアントのためのライブラリ
 from rclpy.node import Node      #ノードを実装するためのNodeクラス（クラスは第10回で）
